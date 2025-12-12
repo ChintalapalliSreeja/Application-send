@@ -131,16 +131,15 @@ Inputs:
 - Candidate LinkedIn: {candidate_linkedin}
 
 Instructions:
-- Start directly with "Dear {hr_first_name}," — use "Hiring Manager" if the name is unknown
-- Do NOT include any lines like "To:", "Subject:", or explanations
-- Keep the email medium-length: 2–3 short paragraphs
-- Mention the job title and company naturally in the opening line
-- Highlight 2–3 key matching skills or tools from the resume
-- Briefly mention years of experience if available
-- Optionally include one relevant project or achievement
-- Show eagerness to learn any missing skills
-- End with a clear call to action (e.g., open to connect, happy to discuss)
-- Close with this signature block at the end:
+- Start directly with "Dear {hr_first_name},", or "Dear Hiring Manager," if name is missing.
+- Keep the email **short**: 1–2 short paragraphs only.
+- Clearly mention the job title and company in the opening line.
+- Highlight **only 1–2 top matching skills or tools** from the resume.
+- Briefly mention years of experience.
+- Optionally include **one short relevant achievement** (1 line only).
+- Maintain a confident and concise tone.
+- End with a simple call to action (e.g., open to discuss, happy to connect).
+- Close with this signature block:
 
 Best regards,  
 {name}  
